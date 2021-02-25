@@ -1,0 +1,20 @@
+body{
+    background-image:url(bg_img.jpg);
+}
+#mainheading{
+    text-align: center;
+    padding-top: 2%;
+}
+.card{
+     background-color: rgba(51, 102, 255, 0.1);
+}
+.adminlogintxt{
+    padding-top: 8%;
+}
+.adminlogin{
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.returnhome{
+    padding-left: 8%;
+}
